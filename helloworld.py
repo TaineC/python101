@@ -8,7 +8,7 @@ last_name = 'Collins'
 # name = input('Your Name: ')
 # print('Hello\n{0} {1}'.format(first_name, last_name))
 
-# the 'f' function does not run properly -- some kind of syntax error with it for Python 3.8
+# works when running python3 helloworld.py instead of python helloworld.py
 output = f'Hello, {first_name} {last_name}'
 # output = f'testing'
 print(output)
