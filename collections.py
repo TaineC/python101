@@ -5,7 +5,3 @@ lastname = input('Enter Last Name: ')
 
 name.append({firstname, lastname})
 user = name[2]
-
-print(name)
-print()
-print(user)
