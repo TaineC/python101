@@ -1,3 +1,4 @@
+from package import display
 # name = input('Your Name: ')
 # print('Hello ' + name.upper())
 
@@ -12,3 +13,5 @@ last_name = 'Collins'
 output = f'Hello, {first_name} {last_name}'
 # output = f'testing'
 print(output)
+
+display('message')
